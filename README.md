@@ -27,3 +27,20 @@ La version imprimé de ce cahier d’activités a été conçue pour être posé
 ## Licence
 
 Ce travail est mis à disposition sous licence Creative Commons ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) qui vous permet d’en profiter librement selon les conditions suivantes : Partager Reproduire, distribuer et communiquer l’œuvre. Remixer Adapter l’œuvre et l’utiliser à des fins commerciales. Attribuer Vous devez attribuer l’œuvre de la manière indiquée par l’auteur ou le titulaire des droits (mais pas d’une manière qui suggérerait qu’ils vous approuvent, vous ou votre utilisation de l’œuvre). Partager dans les mêmes conditions Si vous modifiez, transformez ou adaptez cette œuvre, vous n’avez le droit de distribuer votre création que sous une licence identique ou similaire à celle-ci.
+
+## contribuer 
+
+Mode d’emploi du cahier des tiers-lieux : 
+
+Les ressources placées dans cet espace sont ouvertes. Elles sont destinées à outiller les territoires et les habitants désireux d’agir concrètement à l’amélioration et l’animation de leur quartier et de leur ville.
+
+Plutôt que chaque territoire travaille dans son coin et “ré-invente” des outils qui ont déjà été produits par d’autres, nous proposons ici un espace d’échange et de mutualisation. Nous avons besoin de vous pour améliorer ce cahier !
+
+Comment ? Vous pouvez choisir plusieurs options :
+- Ecrire un retour d'expériences de l'utilisation du cahier d'activités : si vous savez utiliser Git Hub, vous le publiez directement sur cet espace, sinon vous l'envoyez à contact@pop.eu.com, on le publiera sur le site. Plus nous serons nombreux à utiliser cette ressource, plus elle sera robuste !
+- Ajouter une activité : vous publiez un nouveau fichier svg ou pdf dans le répertoire https://github.com/le-poplab/cahier-activite-tiers-lieux/tree/master/cahier. N'oubliez pas de la partager avec la licence indiqué sur le cahier et d'indiquer qui vous êtes sur le fichier.
+- Demander une animation, une formation autour du cahier d'activités : plusieurs personnes de la communauté ont déjà réalisées des animations avec ce cahier, ils peuvent réaliser une prestation pour vous, dont une partie servira à entretenir cette ressource partagée. Ecrivez à contact@pop.eu.com qui diffusera votre demande dans le réseau des contributeurs.
+
+
+ 
+
