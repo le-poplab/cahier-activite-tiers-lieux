@@ -3,7 +3,7 @@ Cahier d'activité pour créer vos tiers-lieux
 
 ## Historique
 
-Ce cahier a été réalisé en plusieurs étapes. Une session [booksprint](booksprint/) s’est tenue en juin 2017 à Lille, au cours de laquelle 13 contributeurs ont élaboré la structure du cahier, ont choisi et peaufiné les activités, puis ont placé le tout sur la plateforme de partage GitHub. 
+Ce cahier a été réalisé en plusieurs étapes. Une session [booksprint](booksprint/) s’est tenue en juin 2017 à Lille, au cours de laquelle 13 contributeurs de la communauté des Tiers-Lieux (devenue maintenant la Cie des Tiers-Lieux : https://compagnie.tiers-lieux.org/) ont élaboré la structure du cahier, ont choisi et peaufiné les activités, puis ont placé le tout sur la plateforme de partage GitHub. 
 
 Un travail de test des activités a été réalisé entre septembre et décembre 2017 avec le réseau des Tiers-Lieux Numériques des Hauts-de-France, dans le cadre d’une mission d’animation réalisée par Pop Up et financée par le Conseil régional des Hauts-de-France. Pop Up a lancé l’édition d’une version imprimable, épaulé par Anaïs Deféver pour la conception graphique et Thibault Caudron pour la partie éditoriale. 
 
@@ -19,10 +19,10 @@ Ce cahier n’a pas vocation à apporter des réponses toutes faites, mais plut�
 
 Le cahier est disponible en deux versions :
 
-- La version PDF disponible sous licence CC-BY-SA
-- La version imprimée disponible sur demande en écrivant à [popupequipe@pop.eu.com](mailto:popupequipe@pop.eu.com) (format A3, couverture cartonnée, reliure spirale, 20€ plus frais d'envoi)
+- La version PDF disponible sous licence CC-BY-SA au bout du lien suivant => https://drive.google.com/drive/folders/1VatrlvfiVJKH8Jcm5PeY1OhQ_JTLFIqB?usp=sharing
+- La version imprimée est désormais en rupture de stock. Nous commençons a envisager une nouvelle version. 
 
-La version imprimé de ce cahier d’activités a été conçue pour être posée debout sur une table afin que tous les participants puissent voir l’activité et que l’animateur ait toutes les informations nécessaires. Pour plus de stabilité, vous pouvez réaliser vous même un [chevalet](cahier/chevalet/).
+La version imprimée de ce cahier d’activités a été conçue pour être posée debout sur une table afin que tous les participants puissent voir l’activité et que l’animateur ait toutes les informations nécessaires. Pour plus de stabilité, vous pouvez réaliser vous même un [chevalet](cahier/chevalet/).
 
 ## Licence
 
@@ -37,9 +37,10 @@ Les ressources placées dans cet espace sont ouvertes. Elles sont destinées à 
 Plutôt que chaque territoire travaille dans son coin et “ré-invente” des outils qui ont déjà été produits par d’autres, nous proposons ici un espace d’échange et de mutualisation. Nous avons besoin de vous pour améliorer ce cahier !
 
 Comment ? Vous pouvez choisir plusieurs options :
-- Ecrire un retour d'expériences de l'utilisation du cahier d'activités : si vous savez utiliser Git Hub, vous le publiez directement sur cet espace, sinon vous l'envoyez à contact@pop.eu.com, on le publiera sur le site. Plus nous serons nombreux à utiliser cette ressource, plus elle sera robuste !
+- Ecrire un retour d'expériences de l'utilisation du cahier d'activités : si vous savez utiliser Git Hub, vous le publiez directement sur cet espace, sinon vous l'envoyez à hello@compagnie.tiers-lieux.org, on le publiera sur le site. Plus nous serons nombreux à utiliser cette ressource, plus elle sera robuste !
 - Ajouter une activité : vous publiez un nouveau fichier svg ou pdf dans le répertoire https://github.com/le-poplab/cahier-activite-tiers-lieux/tree/master/cahier. N'oubliez pas de la partager avec la licence indiqué sur le cahier et d'indiquer qui vous êtes sur le fichier.
-- Demander une animation, une formation autour du cahier d'activités : plusieurs personnes de la communauté ont déjà réalisé des animations avec ce cahier, ils peuvent réaliser une prestation pour vous, dont une partie servira à entretenir cette ressource partagée. Ecrivez à contact@pop.eu.com qui diffusera votre demande dans le réseau des contributeurs.
+- Demander une animation, une formation autour du cahier d'activités : plusieurs personnes de la communauté ont déjà réalisé des animations avec ce cahier, ils peuvent réaliser une prestation pour vous, dont une partie servira à entretenir cette ressource partagée. Ecrivez à hello@compagnie.tiers-lieux.org qui diffusera votre demande dans le réseau des contributeurs.
+- Contribuer financièrement, en abondant dans la cagnotte de la ressource. Cette cagnotte permet de faire évoluer la ressource (ré-impression, amélioration, traduction, ....) Pour cela, vous pouvez faire vos dons par ici => 
 
 
  
