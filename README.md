@@ -40,7 +40,7 @@ Comment ? Vous pouvez choisir plusieurs options :
 - Ecrire un retour d'expériences de l'utilisation du cahier d'activités : si vous savez utiliser Git Hub, vous le publiez directement sur cet espace, sinon vous l'envoyez à hello@compagnie.tiers-lieux.org, on le publiera sur le site. Plus nous serons nombreux à utiliser cette ressource, plus elle sera robuste !
 - Ajouter une activité : vous publiez un nouveau fichier svg ou pdf dans le répertoire https://github.com/le-poplab/cahier-activite-tiers-lieux/tree/master/cahier. N'oubliez pas de la partager avec la licence indiqué sur le cahier et d'indiquer qui vous êtes sur le fichier.
 - Demander une animation, une formation autour du cahier d'activités : plusieurs personnes de la communauté ont déjà réalisé des animations avec ce cahier, ils peuvent réaliser une prestation pour vous, dont une partie servira à entretenir cette ressource partagée. Ecrivez à hello@compagnie.tiers-lieux.org qui diffusera votre demande dans le réseau des contributeurs.
-- Contribuer financièrement, en abondant dans la cagnotte de la ressource. Cette cagnotte permet de faire évoluer la ressource (ré-impression, amélioration, traduction, ....) Pour cela, vous pouvez faire vos dons par ici => 
+- Contribuer financièrement, en abondant dans la cagnotte de la ressource. Cette cagnotte permet de faire évoluer la ressource (ré-impression, amélioration, traduction, ....) Pour cela, vous pouvez faire vos dons par ici => https://www.helloasso.com/associations/la-compagnie-des-tiers-lieux/formulaires/1/widget
 
 
  
