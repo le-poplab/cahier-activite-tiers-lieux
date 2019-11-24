@@ -19,8 +19,8 @@ Ce cahier n’a pas vocation à apporter des réponses toutes faites, mais plut�
 
 Le cahier est disponible en deux versions :
 
-- La version PDF disponible sous licence CC-BY-SA au bout du lien suivant => https://drive.google.com/drive/folders/1VatrlvfiVJKH8Jcm5PeY1OhQ_JTLFIqB?usp=sharing
-- La version imprimée est désormais en rupture de stock. Nous commençons a envisager une nouvelle version. 
+- La version PDF disponible sous licence CC-BY-SA au bout du lien suivant => pour les planches "activités" : https://github.com/le-poplab/cahier-activite-tiers-lieux/blob/master/cahier/cahier_activite.pdf; pour les planches "consignes d'animation" : https://github.com/le-poplab/cahier-activite-tiers-lieux/commit/4f60c0c7418f592df7c81c383fdc38d5340b939a
+- La version imprimée est désormais en rupture de stock. Nous avons bien envie de publier une nouvelle version. Si vous voulez participer à la V2, inscrivez-vous sur la mailing list  https://framalistes.org/sympa/subscribe/coworking-tiers-lieux et faites nous signe.
 
 La version imprimée de ce cahier d’activités a été conçue pour être posée debout sur une table afin que tous les participants puissent voir l’activité et que l’animateur ait toutes les informations nécessaires. Pour plus de stabilité, vous pouvez réaliser vous même un [chevalet](cahier/chevalet/).
 
